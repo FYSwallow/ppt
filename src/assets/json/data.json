@@ -1,0 +1,41 @@
+{
+    "content": [
+        {
+            "topic": "水果大聚会",
+            "id": 0, 
+            "imagePath": "", 
+            "description": "水果是对我们身体很有益的一类食物。水果营养，指水果所带有的物质营养和文化营养。普通水果含有丰富的维生素、膳食纤维等物质营养，而创意文化水果还带有文化营养。"
+        },
+        {
+            "topic": "", 
+            "id": 1, 
+            "imagePath": "./static/img1.jpg", 
+            "description": ""
+        },
+        {
+            "topic": "草莓", 
+            "id": 2, 
+            "imagePath": "./static/img2.jpg", 
+            "description": "草莓含有丰富的维生素C，其含量大约为苹果、梨的7倍多，可以防治牙龈出血、牙龈萎缩等坏血病。"
+        },
+        {
+            "topic": "苹果", 
+            "id": 3, 
+            "imagePath": "./static/img3.jpg", 
+            "description": "苹果是蔷薇科苹果亚科苹果属植物，其树为落叶乔木。苹果营养价值很高，富含矿物质和维生素，含钙量丰富，有助于代谢掉体内多余盐分，苹果酸可代谢热量，防止下半身肥胖"
+        },
+        {
+            "topic": "", 
+            "id": 4, 
+            "imagePath": "", 
+            "description": "一起来看小视频吧!!!",
+            "videoPath": "./static/video.mp4"
+        },
+        {
+            "topic": "", 
+            "id": 5, 
+            "imagePath": "./static/img4.jpg", 
+            "description": ""
+        }
+    ] 
+}
