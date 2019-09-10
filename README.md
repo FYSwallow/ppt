@@ -1,4 +1,4 @@
-项目地址:https://github.com/FYSwallow/ppt
+项目预览地址:https://github.com/FYSwallow/ppt/dist
 # devdemo
 
 ## Project setup
